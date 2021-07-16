@@ -1,5 +1,5 @@
 const { expect } = require('@jest/globals');
-const count = require('./count');
+const count = require('.');
 
 test('The string is longer than 1 character and not longer than 10', () => {
   // Arrange
