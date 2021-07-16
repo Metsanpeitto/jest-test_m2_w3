@@ -1,0 +1,25 @@
+{
+  "name": "jest-test_m2_w3",
+  "version": "1.0.0",
+  "description": "![Microverse](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "count.js",
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metsanpeitto/jest-test_m2_w3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metsanpeitto/jest-test_m2_w3/issues"
+  },
+  "homepage": "https://github.com/Metsanpeitto/jest-test_m2_w3#readme"
+}
