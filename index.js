@@ -34,9 +34,9 @@ function count(str) {
 function reverse(str) {
   let result = null;
   if (str !== null) {
-    const splittedStr = str.split("");
+    const splittedStr = str.split('');
     const reversed = splittedStr.reverse();
-    result = reversed.join("");
+    result = reversed.join('');
   }
   return result;
 }
@@ -79,7 +79,7 @@ const calculator = new Calculator();
 
 function capitalize(str) {
   let result;
-  if (typeof str === "string") {
+  if (typeof str === 'string') {
     result = str.charAt(0).toUpperCase() + str.slice(1);
   } else {
     result = null;
