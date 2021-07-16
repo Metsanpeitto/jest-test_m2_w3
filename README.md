@@ -2,8 +2,6 @@
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-![Alt text](screenshot.png?raw=true 'Screenshot')
-
 ## Learning objectives
 
 - Write unit tests for a JavaScript app.
@@ -40,42 +38,9 @@ In this task we're going to do things differently:
 
 ## Built With 
 
-- HTML/CSS
 - Node.JS
 
 =======
-
-## Getting Started
-
-If you want a copy of this file go to the github repository and download it from there
-
-- [`git clone https://github.com/Metsanpeitto/To-do-list_m2_w2`](https://github.com/Metsanpeitto/To-do-list_m2_w2)
-
-
-### Live
-
-[Live](https://metsanpeitto.github.io/To-do-list_m2_w2/)
-
-
-### Setup
-
-```cmd
-git clone  https://github.com/Metsanpeitto/To-do-list_m2_w2.git
-cd ./To-do-list_m2_w2
-```
-
-### Install
-
-```cmd
-npm install
-```
-
-### Usage
-
-```cmd
-npm start
-```
-
 
 If you are non a technical person you can download the zip file.
 
@@ -84,12 +49,6 @@ If you are non a technical person you can download the zip file.
 - Then you need to decompress it.
 - You will need to have Zip compress file software installed in your computer. If you don't have it you can download it from here
   [`https://www.7-zip.org/download.html`](https://www.7-zip.org/download.html)
-- Do double click on the Capstone-1.zip and choose a folder where to place all teh decompressed files.
-- Once you are done decompressing, you can open the created folder.
-- In it you can double click on the index.html file and choose a browser to open it (For example google Chrome Browser).
-- Now you should be able to see the project.
-- Remember to use the mouse to navigate through the website. Also you can use the keys 'arrow up' and 'arrow down' of your keyboard
-  to scroll up and down.
 
 
 ### Prerequisites
