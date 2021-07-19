@@ -48,6 +48,7 @@ If you are non a technical person you can download the zip file.
 - Choose the option 'Download Zip' and wait until it download.
 - Then you need to decompress it.
 - You will need to have Zip compress file software installed in your computer. If you don't have it you can download it from here
+
   [`https://www.7-zip.org/download.html`](https://www.7-zip.org/download.html)
 
 
